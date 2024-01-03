@@ -5,7 +5,7 @@ I was initially a Business/ human resource student. However, during my internshi
 Here are the projects that I have built in the process of learning Python:
 
 1.Chatbot
-Utilizing core libraries like JSON, requests, and spacy, this Python chatbot project showcases proficiency in data handling, API integration, and natural language processing. Notable features, including entity extraction, dynamic responses, and seamless integration with OpenWeatherMap
+- Utilizing core libraries like JSON, requests, and spacy, this Python chatbot project showcases proficiency in data handling, API integration, and natural language processing. Notable features, including entity extraction, dynamic responses, and seamless integration with OpenWeatherMap
 (https://github.com/kang889/lim-kang-ping-portfolio/tree/main/Projects/Chatbot)
 
 2.Digital clock
