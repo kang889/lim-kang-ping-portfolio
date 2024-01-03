@@ -12,6 +12,7 @@ https://github.com/kang889/lim-kang-ping-portfolio/blob/main/digital%20clock.py
 - This project was created as I wanted a faster solution to creating new passwords. It allowed me to apply programming skills to a practical context, reinforcing my understanding of algorithms and contributing to a safer digital environment.https://github.com/kang889/lim-kang-ping-portfolio/blob/main/password%20generator.py
 
 .Password strength checker
-- This project was created for me to easily check to ensure that the passowrd used are up to standard. It allowed me to apply programming skills to a practical context, reinforcing my understanding of algorithms and contributing to a safer digital environment. 
+- This project was created for me to easily check to ensure that the passowrd used are up to standard. It allowed me to apply programming skills to a practical context, reinforcing my understanding of algorithms and contributing to a safer digital environment.
+password_strength_checker.py
   
 
