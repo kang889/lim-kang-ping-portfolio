@@ -6,7 +6,7 @@ Here are the projects that I have built in the process of learning Python:
 
 .Digital clock
 - Creating a digital clock was a practical application of my Python knowledge, reinforcing my understanding of time-related concepts and allowing experimentation with tkinter for graphical user interface programming. The simplicity of the project served as an excellent starting point, boosting my confidence and providing a solid foundation in Python development.
-https://github.com/kang889/lim-kang-ping-portfolio/blob/main/digital%20clock.py
+(https://github.com/kang889/lim-kang-ping-portfolio/blob/main/Projects/digital%20clock.py)
 
 .Password generator
 - This project was created as I wanted a faster solution to creating new passwords. It allowed me to apply programming skills to a practical context, reinforcing my understanding of algorithms and contributing to a safer digital environment.https://github.com/kang889/lim-kang-ping-portfolio/blob/main/password%20generator.py
