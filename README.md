@@ -6,6 +6,7 @@ Here are the projects that I have built in the process of learning Python:
 
 1.Chatbot
 Utilizing core libraries like JSON, requests, and spacy, this Python chatbot project showcases proficiency in data handling, API integration, and natural language processing. Notable features, including entity extraction, dynamic responses, and seamless integration with OpenWeatherMap
+(https://github.com/kang889/lim-kang-ping-portfolio/tree/main/Projects/Chatbot)
 
 2.Digital clock
 - Creating a digital clock was a practical application of my Python knowledge, reinforcing my understanding of time-related concepts and allowing experimentation with tkinter for graphical user interface programming. The simplicity of the project served as an excellent starting point, boosting my confidence and providing a solid foundation in Python development.
