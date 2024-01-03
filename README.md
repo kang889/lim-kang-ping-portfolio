@@ -14,6 +14,5 @@ Here are the projects that I have built in the process of learning Python:
 
 .Password strength checker
 - This project was created for me to easily check to ensure that the passowrd used are up to standard. It allowed me to apply programming skills to a practical context, reinforcing my understanding of algorithms and contributing to a safer digital environment.
-password_strength_checker.py
-  
+(https://github.com/kang889/lim-kang-ping-portfolio/blob/main/Projects/password%20generator.py)
 
