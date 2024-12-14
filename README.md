@@ -1,6 +1,5 @@
 # lim kang ping portfolio
 My name is Lim Kang Ping and I am a new tech enthusiast who recently discovered his interest and passion in creating coding projects.
-I was initially a Business/ human resource student. However, during my internship, I had the opportunity to use the organization's human resource information system (HRIS), which exposed me to the use of data science tools. This exposure led me to realize how much capability in efficiency these data tools can bring to us. This realization ignited my interest in technology, particularly in data science and coding.
 
 Here are the projects that I have built in the process of learning Python:
 
@@ -20,3 +19,15 @@ Here are the projects that I have built in the process of learning Python:
 - This project was created for me to easily check to ensure that the password used are up to standard. It allowed me to apply programming skills to a practical context, reinforcing my understanding of algorithms and contributing to a safer digital environment.
 (https://github.com/kang889/lim-kang-ping-portfolio/blob/main/Projects/password%20generator.py)
 
+5.fitness tracker app
+-log, track and analyse calories burned in wokrouts to allow user to achieve their goals
+
+porjects build in C++ :
+1. spaceinvaders
+- Player will get to operate a spaceship to fight with aliens. Fire laser at aliens to win the game while dodging lasers from aliens to survive.
+
+3. pong game
+- play a basic pong game with AI.
+
+5. feed the snake
+- Grow the snake by feeding it food, avoid touching its own tail or the borders or the snake will die!
