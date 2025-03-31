@@ -1,5 +1,5 @@
 # lim kang ping portfolio
-My name is Lim Kang Ping and I am a new tech enthusiast who recently discovered his interest and passion in creating coding projects.
+My name is Lim Kang Ping and I am a tech enthusiast who is interested and passionate in creating coding projects.
 
 Here are the projects that I have built in the process of learning Python:
 
@@ -23,6 +23,9 @@ Here are the projects that I have built in the process of learning Python:
 -log, track and analyse calories burned in wokrouts to allow user to achieve their goals
 
 porjects build in C++ :
+1. PAW&SLIME
+- An action adventure 2d game, players will explore the map and battle monsters to survive and beat the game.
+
 1. spaceinvaders
 - Player will get to operate a spaceship to fight with aliens. Fire laser at aliens to win the game while dodging lasers from aliens to survive.
 
